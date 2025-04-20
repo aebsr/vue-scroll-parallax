@@ -1,8 +1,5 @@
 # Vue Scroll Parallax
 
-[![NPM Version Latest](https://img.shields.io/npm/v/vue-scroll-parallax/latest)](https://www.npmjs.com/package/vue-scroll-parallax)
-[![NPM Downloads](https://img.shields.io/npm/dm/vue-scroll-parallax)](https://www.npmjs.com/package/vue-scroll-parallax)
-
 Vue 3 components and composables to create parallax scroll effects for banners, images or any other DOM elements. Built on top of [Parallax Controller](https://parallax-controller.damnthat.tv) to add vertical or horizontal scroll parallax effects to any Vue application.
 
 ## Experimental***
