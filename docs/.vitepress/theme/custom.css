@@ -1,0 +1,14 @@
+:root {
+  --vp-c-brand: #42b883;
+  --vp-c-brand-light: #42d392;
+  --vp-c-brand-lighter: #35eb9a;
+  --vp-c-brand-dark: #33a06f;
+  --vp-c-brand-darker: #155f3e;
+}
+
+.example-container {
+  margin: 2rem 0;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid var(--vp-c-divider);
+} 
