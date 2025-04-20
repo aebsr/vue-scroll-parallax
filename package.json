@@ -54,7 +54,16 @@
     "vitepress": "^1.0.0",
     "vitest": "^1.0.0",
     "vue": "^3.3.0",
-    "vue-tsc": "^1.8.0"
+    "vue-tsc": "^1.8.0",
+    "@semantic-release/changelog": "^6.0.0",
+    "@semantic-release/git": "^10.0.0",
+    "@semantic-release/github": "^9.0.0",
+    "@semantic-release/npm": "^11.0.0",
+    "semantic-release": "^22.0.0",
+    "@commitlint/cli": "^18.0.0",
+    "@commitlint/config-conventional": "^18.0.0",
+    "commitizen": "^4.3.0",
+    "cz-conventional-changelog": "^3.3.0"
   },
   "keywords": [
     "vue",
