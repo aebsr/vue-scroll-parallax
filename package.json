@@ -63,7 +63,9 @@
     "@commitlint/cli": "^18.0.0",
     "@commitlint/config-conventional": "^18.0.0",
     "commitizen": "^4.3.0",
-    "cz-conventional-changelog": "^3.3.0"
+    "cz-conventional-changelog": "^3.3.0",
+    "jsdom": "^22.1.0",
+    "@testing-library/vue": "^8.0.1"
   },
   "keywords": [
     "vue",
